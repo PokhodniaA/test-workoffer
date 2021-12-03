@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/company-edit/gallery", {data:[{},{}],fetch:{},mutations:[]});
