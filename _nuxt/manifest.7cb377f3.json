@@ -1,0 +1,9 @@
+{
+  "name": "workoffer",
+  "short_name": "workoffer",
+  "icons": [],
+  "start_url": "/test-workoffer/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
