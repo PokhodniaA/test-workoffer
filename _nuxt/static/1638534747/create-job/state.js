@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Ftest-workoffer\u002F_nuxt\u002Fstatic\u002F1638534747",layout:"mainLayout",error:a,state:a,serverRendered:false,routePath:"\u002Fcreate-job",config:{_app:{basePath:"\u002Ftest-workoffer\u002F",assetsPath:"\u002Ftest-workoffer\u002F_nuxt\u002F",cdnURL:a}}}}(null));
